@@ -63,3 +63,9 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10: No
+Answer 11: Git fails
+Answer 12: Yes
+Answer 13: .  ..  .git  .gitignore  README.md
+
